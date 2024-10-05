@@ -9,6 +9,12 @@
         "source",
         "code"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:nevster123/phploc.git"
+        }
+    ],
     "license": "MIT",
     "authors": [
         {
